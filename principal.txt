@@ -7,6 +7,11 @@
 127.0.0.1 sdk.split.io
 127.0.0.1 accounts.ea.com
 127.0.0.1 signin.ea.com
+127.0.0.1 easo.ea.com
+127.0.0.1 launcherapi.thesims3.com
+127.0.0.1 igs.thesims3.com
+127.0.0.1 akamai.cdn.ea.com
+127.0.0.1 www.thesims3.com
 
 
 
