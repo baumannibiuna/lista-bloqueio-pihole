@@ -44689,93 +44689,93 @@
 
 # [zynga.com]
 127.0.0.1 log-collector.svctr.zynga.com
-ExplicarFF
 
-livejasmin.com
-pornhub.com
-xvideos.com
-bongacams.com
-xhamster.com
-xnxx.com
-youporn.com
-chaturbate.com
-spankbang.com
-sex.com
-redtube.com
-dmm.com
-beeg.com
-yespornplease.com
-4chan.org
-urbandictionary.com
-xhamster.desi
-manyvids.com
-gotporn.com
-e-hentai.org
-cda.pl
-youjizz.com
-okcupid.com
-txxx.com
-tube8.com
-myfreecams.com
-pornhubpremium.com
-perfectgirls.net
-nhentai.net
-sxyprn.com
-pornpics.com
-clips4sale.com
-pornhdvideos.net
-porntrex.com
-eporner.com
-pornhublive.com
-xhamsterlive.com
-porn.com
-xtube.com
-drtuber.com
-motherless.com
-ashemaletube.com
-hitomi.la
-fuq.com
-daftsex.com
-match.com
-doublepimp.com
-cam4.com
-sexseq.com
-nutaku.net
-reallifecam.com
-thefappeningblog.com
-theporndude.com
-gayboystube.com
-heavy-r.com
-jizzbunker.com
-brazzers.com
-efukt.com
-biqle.ru
-hclips.com
-spankwire.com
-adultfriendfinder.com
-bangbros.com
-sexu.com
-hqporner.com
-anyporn.com
-stripchat.com
-fishki.net
-ixxx.com
-thisvid.com
-bellesa.co
-hdzog.com
-vporn.com
-hellporno.net
-thumbzilla.com
-dlsite.com
-4tube.com
-bravotube.net
-pornq.com
-vkmag.com
-muchohentai.com
-porzo.com
-tnaflix.com
-xhamsterpremium.com
-pornmd.com
+
+127.0.0.1 livejasmin.com
+127.0.0.1 pornhub.com
+127.0.0.1 xvideos.com
+127.0.0.1 bongacams.com
+127.0.0.1 xhamster.com
+127.0.0.1 xnxx.com
+127.0.0.1 youporn.com
+127.0.0.1 chaturbate.com
+127.0.0.1 spankbang.com
+127.0.0.1 sex.com
+127.0.0.1 redtube.com
+127.0.0.1 dmm.com
+127.0.0.1 beeg.com
+127.0.0.1 yespornplease.com
+127.0.0.1 4chan.org
+127.0.0.1 urbandictionary.com
+127.0.0.1 xhamster.desi
+127.0.0.1 manyvids.com
+127.0.0.1 gotporn.com
+127.0.0.1 e-hentai.org
+127.0.0.1 cda.pl
+127.0.0.1 youjizz.com
+127.0.0.1 okcupid.com
+127.0.0.1 txxx.com
+127.0.0.1 ube8.com
+127.0.0.1 myfreecams.com
+127.0.0.1 pornhubpremium.com
+127.0.0.1 perfectgirls.net
+127.0.0.1 nhentai.net
+127.0.0.1 sxyprn.com
+127.0.0.1 pornpics.com
+127.0.0.1 clips4sale.com
+127.0.0.1 pornhdvideos.net
+127.0.0.1 porntrex.com
+127.0.0.1 eporner.com
+127.0.0.1 pornhublive.com
+127.0.0.1 xhamsterlive.com
+127.0.0.1 porn.com
+127.0.0.1 xtube.com
+127.0.0.1 drtuber.com
+127.0.0.1 motherless.com
+127.0.0.1 ashemaletube.com
+127.0.0.1 hitomi.la
+127.0.0.1 fuq.com
+127.0.0.1 daftsex.com
+127.0.0.1 match.com
+127.0.0.1 doublepimp.com
+127.0.0.1 cam4.com
+127.0.0.1 sexseq.com
+127.0.0.1 nutaku.net
+127.0.0.1 reallifecam.com
+127.0.0.1 thefappeningblog.com
+127.0.0.1 theporndude.com
+127.0.0.1 gayboystube.com
+127.0.0.1 heavy-r.com
+127.0.0.1 jizzbunker.com
+127.0.0.1 brazzers.com
+127.0.0.1 efukt.com
+127.0.0.1 biqle.ru
+127.0.0.1 hclips.com
+127.0.0.1 spankwire.com
+127.0.0.1 adultfriendfinder.com
+127.0.0.1 bangbros.com
+127.0.0.1 sexu.com
+127.0.0.1 hqporner.com
+127.0.0.1 anyporn.com
+127.0.0.1 stripchat.com
+127.0.0.1 fishki.net
+127.0.0.1 ixxx.com
+127.0.0.1 thisvid.com
+127.0.0.1 bellesa.co
+127.0.0.1 hdzog.com
+127.0.0.1 vporn.com
+127.0.0.1 hellporno.net
+127.0.0.1 thumbzilla.com
+127.0.0.1 dlsite.com
+127.0.0.1 4tube.com
+127.0.0.1 bravotube.net
+127.0.0.1 pornq.com
+127.0.0.1 vkmag.com
+127.0.0.1 muchohentai.com
+127.0.0.1 porzo.com
+127.0.0.1 tnaflix.com
+127.0.0.1 xhamsterpremium.com
+127.0.0.1 pornmd.com
 cosmopolitan.com
 brazzersnetwork.com
 celebjihad.com
